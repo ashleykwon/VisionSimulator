@@ -13,6 +13,7 @@ public class ObjectDropdown : MonoBehaviour
 
     // For Passthrough mode
     public GameObject applePrefab;
+    public GameObject dataPoint;
     public TMPro.TMP_Dropdown visionModeDropdown;
     public int SelectedMethodID;
     public Material RGBAppleMaterial;
